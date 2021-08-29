@@ -60,7 +60,7 @@ const Home = () => {
   return (
     <Container>
       <Content>
-        <img src="/Images/todo.png" alt="logo"></img>
+        <img src="./Images/todo.png" alt="logo"></img>
         <h3>Add your list here</h3>
         <List>
           <AddItems>
