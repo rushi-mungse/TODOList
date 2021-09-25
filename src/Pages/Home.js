@@ -61,7 +61,7 @@ const Home = () => {
     <Container>
       <Content>
         <img src="./Images/todo.png" alt="logo"></img>
-        <h3>Add your list here</h3>
+        <h3>Make your day beautiful!</h3>
         <List>
           <AddItems>
             <input
